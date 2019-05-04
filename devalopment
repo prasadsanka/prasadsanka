@@ -1,3 +1,4 @@
+
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java");  
@@ -9,4 +10,3 @@ dvs devops
 hello world
 tighbb
 
-new line
